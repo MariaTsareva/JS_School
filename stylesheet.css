@@ -1,0 +1,36 @@
+
+h1, h2 {
+color: #e5007e;
+font-size: 2rem;}
+body {
+	background-color: #412682;
+	opacity: 0.5;
+}
+input{
+	width:30%;
+}
+.first {
+	font-size: 2rem;
+}
+h2:hover {
+	font-size: 1.5rem;
+	color: aqua;
+}
+html {
+	font-size: 1.5vw;
+}
+
+#my_id {
+	font-size: 4rem;
+	border: solid aqua;
+	display: inline-block
+}
+a:hover {
+	color: #000200;
+
+	
+}
+
+* {
+	border: 1px solid white !important;
+}
